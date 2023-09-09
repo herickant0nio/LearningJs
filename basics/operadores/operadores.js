@@ -21,3 +21,5 @@ let contador2 = 1;
 let passos = 2;
 contador2 += passos; // contador2 = contador2 + passos;
 console.log(contador2);
+
+// aprendendo pipipi popopo
