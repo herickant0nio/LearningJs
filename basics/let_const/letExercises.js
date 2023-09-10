@@ -10,3 +10,13 @@ const anoAtual = 2023
 let imc=peso / (altura*altura); 
 let anoNascimento=anoAtual - idade;
 console.log (`${nome} ${sobrenome} tem ${idade} pesa ${peso} tem ${altura} de altura e seu imc é de ${imc} ${nome} ${sobrenome} nasceu em ${anoNascimento}`);
+
+// exercicio de variaveis
+let var1 = "a" //b
+let var2 = "b" //c
+let var3 = "c" //a
+console.log(var1, var2, var3);
+var1="b"
+var2="c"
+var3="a"
+console.log(var1, var2, var3);
